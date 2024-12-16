@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\DotNet\\CarClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3B659D-D791-4690-A345-564464B742FA}|CarStoreGUI\\CarStoreGUI.csproj|d:\\code\\dotnet\\carclasslibrary\\carstoregui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3B659D-D791-4690-A345-564464B742FA}|CarStoreGUI\\CarStoreGUI.csproj|solutionrelative:carstoregui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3B659D-D791-4690-A345-564464B742FA}|CarStoreGUI\\CarStoreGUI.csproj|d:\\code\\dotnet\\carclasslibrary\\carstoregui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE3B659D-D791-4690-A345-564464B742FA}|CarStoreGUI\\CarStoreGUI.csproj|solutionrelative:carstoregui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3556B87A-F910-45DA-949A-B35EDB663A1F}|CarStoreConsoleApp\\CarStoreConsoleApp.csproj|d:\\code\\dotnet\\carclasslibrary\\carstoreconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3556B87A-F910-45DA-949A-B35EDB663A1F}|CarStoreConsoleApp\\CarStoreConsoleApp.csproj|solutionrelative:carstoreconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3695EDAE-72A2-41B5-B16B-E5A1FB845764}|CarClassLibrary\\CarClassLibrary.csproj|d:\\code\\dotnet\\carclasslibrary\\carclasslibrary\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3695EDAE-72A2-41B5-B16B-E5A1FB845764}|CarClassLibrary\\CarClassLibrary.csproj|solutionrelative:carclasslibrary\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3695EDAE-72A2-41B5-B16B-E5A1FB845764}|CarClassLibrary\\CarClassLibrary.csproj|d:\\code\\dotnet\\carclasslibrary\\carclasslibrary\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3695EDAE-72A2-41B5-B16B-E5A1FB845764}|CarClassLibrary\\CarClassLibrary.csproj|solutionrelative:carclasslibrary\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Code\\DotNet\\CarClassLibrary\\CarStoreGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "CarStoreGUI\\Form1.cs",
+              "ToolTip": "D:\\Code\\DotNet\\CarClassLibrary\\CarStoreGUI\\Form1.cs",
+              "RelativeToolTip": "CarStoreGUI\\Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:19:50.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\DotNet\\CarClassLibrary\\CarStoreGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "CarStoreGUI\\Form1.cs",
+              "ToolTip": "D:\\Code\\DotNet\\CarClassLibrary\\CarStoreGUI\\Form1.cs [Design]",
+              "RelativeToolTip": "CarStoreGUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:59:06.222Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DotNet\\CarClassLibrary\\CarStoreConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "CarStoreConsoleApp\\Program.cs",
+              "ToolTip": "D:\\Code\\DotNet\\CarClassLibrary\\CarStoreConsoleApp\\Program.cs",
+              "RelativeToolTip": "CarStoreConsoleApp\\Program.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAuwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:34:55.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Store.cs",
+              "DocumentMoniker": "D:\\Code\\DotNet\\CarClassLibrary\\CarClassLibrary\\Store.cs",
+              "RelativeDocumentMoniker": "CarClassLibrary\\Store.cs",
+              "ToolTip": "D:\\Code\\DotNet\\CarClassLibrary\\CarClassLibrary\\Store.cs",
+              "RelativeToolTip": "CarClassLibrary\\Store.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:26:34.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Code\\DotNet\\CarClassLibrary\\CarClassLibrary\\Car.cs",
+              "RelativeDocumentMoniker": "CarClassLibrary\\Car.cs",
+              "ToolTip": "D:\\Code\\DotNet\\CarClassLibrary\\CarClassLibrary\\Car.cs",
+              "RelativeToolTip": "CarClassLibrary\\Car.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:55:07.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
